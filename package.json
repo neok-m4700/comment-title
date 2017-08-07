@@ -1,0 +1,19 @@
+{
+  "name": "comment-title",
+  "main": "./lib/comment-title",
+  "version": "0.0.1",
+  "description": "Wrap a comment into a title",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "comment-title:toggle",
+    "atom-workspace": "comment-title:wrap"
+  },
+  "repository": "https://github.com/atom/comment-title",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
